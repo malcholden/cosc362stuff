@@ -1,0 +1,7 @@
+The quick brown fox jumped over the lazy dog
+Sphinx of a  black quartz judge my vow
+hello
+for i in range(10):
+	print("hello world")
+
+
